@@ -59,6 +59,7 @@ public class FieldVerifierTest {
     assertTrue(problems.isEmpty());  // No mismatch.
   }
 
+
   /**
    * Testing that UNEXPECTED_FIELD is returned for the US if a sorting code is used.
    */
